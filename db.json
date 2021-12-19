@@ -1,0 +1,65 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "captain america",
+      "alterEgo": "Chris Evans",
+      "id": 4
+    },
+    {
+      "name": "ironman",
+      "alterEgo": "robert downey jr",
+      "id": 5
+    },
+    {
+      "name": "thor",
+      "alterEgo": "chris hamesworth",
+      "id": 6
+    },
+    {
+      "name": "hulk",
+      "alterEgo": "mark ruffalo",
+      "id": 7
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "name": "orange"
+    },
+    {
+      "id": 2,
+      "name": "blue"
+    },
+    {
+      "id": 3,
+      "name": "black"
+    },
+    {
+      "id": 4,
+      "name": "white"
+    },
+    {
+      "id": 5,
+      "name": "purple"
+    },
+    {
+      "id": 6,
+      "name": "off-white"
+    }
+  ]
+}
